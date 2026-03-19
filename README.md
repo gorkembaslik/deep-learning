@@ -1,6 +1,6 @@
 # Chest X-ray Pneumonia Classification (Deep Learning Project)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gorkembaslik/deep-learning/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gorkembaslik/deep-learning/blob/main/main.ipynb)
 
 This repository contains a reproducible PyTorch notebook for binary chest X-ray classification, categorizing images into:
 - **NORMAL**
